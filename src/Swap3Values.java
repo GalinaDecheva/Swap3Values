@@ -3,7 +3,7 @@ public class Swap3Values {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		// Alabala portokala
 		Scanner input = new Scanner(System.in);
 		
 		int a1;
