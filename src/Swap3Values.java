@@ -31,7 +31,7 @@ public class Swap3Values {
 		System.out.println("a3 Swap Value a1: " + a3);
 		
 		
-		
+		input.close();
 		
 		
 		
